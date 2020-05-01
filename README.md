@@ -18,4 +18,4 @@ Attempting to Solve
 4) Do the pre-programmed or user created rides create more thrills? 
 
 
-Libraries: Pandas, Numpy, MatplotLib
+Libraries: Pandas, Numpy, MatplotLib, Seaborn
