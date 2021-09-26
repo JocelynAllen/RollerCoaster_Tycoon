@@ -14,4 +14,3 @@ Steps:
 3) Formatted the RollerCoaster Tycoon 3 data using SQL to include the excitment, 
 nausea, and intensity rating by low, medium, high, and very high. 
 
-4) Exported the formatted csv data.
